@@ -1,0 +1,113 @@
+[
+  {
+    "id": "1",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "name": "Dr. Ahsan Rahman",
+    "speciality": "Cardiologist",
+    "experience": 12,
+    "licenseNumber": "BD-CARD-1001",
+    "fee": 1500,
+    "availability": ["Sunday", "Tuesday", "Thursday"],
+    "availabilityStatus": "Available"
+  },
+  {
+    "id": "2",
+    "image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "name": "Dr. Nafisa Jahan",
+    "speciality": "Dermatologist",
+    "experience": 8,
+    "licenseNumber": "BD-DERM-1042",
+    "fee": 1200,
+    "availability": ["Monday", "Wednesday", "Saturday"],
+    "availabilityStatus": "Not Available"
+  },
+  {
+    "id": "3",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "name": "Dr. Mahmud Hasan",
+    "speciality": "Neurologist",
+    "experience": 15,
+    "licenseNumber": "BD-NEUR-1025",
+    "fee": 2000,
+    "availability": ["Sunday", "Wednesday"],
+    "availabilityStatus": "Available"
+  },
+  {
+    "id": "4",
+    "image": "https://randomuser.me/api/portraits/women/4.jpg",
+    "name": "Dr. Farzana Kabir",
+    "speciality": "Pediatrician",
+    "experience": 10,
+    "licenseNumber": "BD-PED-1099",
+    "fee": 1000,
+    "availability": ["Tuesday", "Thursday", "Friday"],
+    "availabilityStatus": "Not Available"
+  },
+  {
+    "id": "5",
+    "image": "https://randomuser.me/api/portraits/men/5.jpg",
+    "name": "Dr. Rezaul Karim",
+    "speciality": "Orthopedic Surgeon",
+    "experience": 18,
+    "licenseNumber": "BD-ORTHO-1070",
+    "fee": 1800,
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "availabilityStatus": "Available"
+  },
+  {
+    "id": "6",
+    "image": "https://randomuser.me/api/portraits/women/6.jpg",
+    "name": "Dr. Shirin Akter",
+    "speciality": "Gynecologist",
+    "experience": 11,
+    "licenseNumber": "BD-GYNE-1088",
+    "fee": 1400,
+    "availability": ["Sunday", "Tuesday", "Thursday"],
+    "availabilityStatus": "Available"
+  },
+  {
+    "id": "7",
+    "image": "https://randomuser.me/api/portraits/men/7.jpg",
+    "name": "Dr. Tanvir Alam",
+    "speciality": "ENT Specialist",
+    "experience": 9,
+    "licenseNumber": "BD-ENT-1033",
+    "fee": 1100,
+    "availability": ["Monday", "Thursday", "Saturday"],
+    "availabilityStatus": "Not Available"
+  },
+  {
+    "id": "8",
+    "image": "https://randomuser.me/api/portraits/women/8.jpg",
+    "name": "Dr. Samia Chowdhury",
+    "speciality": "Oncologist",
+    "experience": 13,
+    "licenseNumber": "BD-ONC-1056",
+    "fee": 2200,
+    "availability": ["Tuesday", "Friday"],
+    "availabilityStatus": "Available"
+  },
+  {
+    "id": "9",
+    "image": "https://randomuser.me/api/portraits/men/9.jpg",
+    "name": "Dr. Jahidul Islam",
+    "speciality": "Psychiatrist",
+    "experience": 7,
+    "licenseNumber": "BD-PSY-1017",
+    "fee": 1600,
+    "availability": ["Sunday", "Wednesday", "Saturday"],
+    "availabilityStatus": "Not Available"
+  },
+  {
+    "id": "10",
+    "image": "https://randomuser.me/api/portraits/women/10.jpg",
+    "name": "Dr. Nusrat Jahan",
+    "speciality": "Dermatologist",
+    "experience": 5,
+    "licenseNumber": "BD-DER-1023",
+    "fee": 1400,
+    "availability": ["Monday", "Tuesday", "Thursday"],
+    "availabilityStatus": "Available"
+  }
+  
+]
