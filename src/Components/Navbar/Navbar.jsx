@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import "./navbar.css"
 
 
@@ -96,7 +96,10 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn btn-success rounded-4xl text-white">Contact Now</a>
+          <Link to="contact-us">
+          <button className="btn btn-success rounded-4xl text-white">Contact Now</button>
+          </Link>
+          
         </div>
       </div>
     );
