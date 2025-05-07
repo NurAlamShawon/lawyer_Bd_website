@@ -1,23 +1,56 @@
 [
-    {
-      "question": "What is useState and how does it work in React?",
-      "answer": "useState is a Hook that lets you add state to functional components and re-renders the component whenever the state is updated."
-    },
-    {
-      "question": "What is the purpose of useEffect in React?",
-      "answer": "useEffect is used to perform side effects like data fetching or DOM manipulation and runs after the component renders."
-    },
-    {
-      "question": "What is a custom hook in React and when should you use one?",
-      "answer": "A custom hook is a reusable function built with React hooks to share logic across multiple components."
-    },
-    {
-      "question": "Difference between controlled and uncontrolled components. Which one is better?",
-      "answer": "Controlled components are managed by React state and are preferred over uncontrolled components for better control and validation."
-    },
-    {
-      "question": "Tell us something about useFormStatus() in React.",
-      "answer": "useFormStatus is a React hook that provides the status of a form submission, useful for managing loading states or disabling buttons."
-    }
-  ]
-  
+  {
+    "name": "Sarah Ahmed",
+    "photo": "https://randomuser.me/api/portraits/women/45.jpg",
+    "feedback": "This website has completely transformed how I find legal services. The interface is smooth and the lawyers are truly professional!",
+    "time": "March 10, 2025"
+  },
+  {
+    "name": "Rahim Uddin",
+    "photo": "https://randomuser.me/api/portraits/men/34.jpg",
+    "feedback": "Easy to use and very effective. I booked an appointment in just a few clicks. Highly recommended!",
+    "time": "April 5, 2025"
+  },
+  {
+    "name": "Mira Chowdhury",
+    "photo": "https://randomuser.me/api/portraits/women/68.jpg",
+    "feedback": "User-friendly design and quick support. The experience exceeded my expectations.",
+    "time": "April 28, 2025"
+  },
+  {
+    "name": "Tanvir Hasan",
+    "photo": "https://randomuser.me/api/portraits/men/77.jpg",
+    "feedback": "I found a highly experienced lawyer within minutes. Great platform for legal solutions!",
+    "time": "May 2, 2025"
+  },
+  {
+    "name": "Nadia Karim",
+    "photo": "https://randomuser.me/api/portraits/women/22.jpg",
+    "feedback": "Very informative and efficient. It saved me so much time and stress in finding the right legal support.",
+    "time": "May 6, 2025"
+  },
+  {
+    "name": "Kamal Roy",
+    "photo": "https://randomuser.me/api/portraits/men/12.jpg",
+    "feedback": "Great platform! Booking a consultation was smooth and the lawyer I spoke with was very helpful.",
+    "time": "May 7, 2025"
+  },
+  {
+    "name": "Farzana Haque",
+    "photo": "https://randomuser.me/api/portraits/women/37.jpg",
+    "feedback": "This is exactly what our community needed. Convenient, easy to navigate, and trustworthy.",
+    "time": "May 7, 2025"
+  },
+  {
+    "name": "Omar Siddique",
+    "photo": "https://randomuser.me/api/portraits/men/41.jpg",
+    "feedback": "I've used multiple legal platforms, but this one stands out for its speed and quality of service.",
+    "time": "May 7, 2025"
+  },
+  {
+    "name": "Raisa Islam",
+    "photo": "https://randomuser.me/api/portraits/women/55.jpg",
+    "feedback": "Booked a session on behalf of my parents. Super fast and the lawyer was very understanding.",
+    "time": "May 7, 2025"
+  }
+]
